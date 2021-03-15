@@ -773,4 +773,8 @@ a {
 .content-container {
     max-width: 90%;
 }
+
+.post-detail {
+    max-width: none;
+}
     
