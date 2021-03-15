@@ -769,4 +769,8 @@ a {
       .sidebar {
     overflow-x: hidden; overflow-y: auto;
 }
+
+.content-container {
+    max-width: 90%;
+}
     
