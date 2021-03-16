@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://767116397.github.io/whynone/</id>
+    <id>https://whynone.vercel.app</id>
     <title>whyNone</title>
-    <updated>2021-03-15T07:18:04.148Z</updated>
+    <updated>2021-03-16T02:42:47.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://767116397.github.io/whynone/"/>
-    <link rel="self" href="https://767116397.github.io/whynone/atom.xml"/>
+    <link rel="alternate" href="https://whynone.vercel.app"/>
+    <link rel="self" href="https://whynone.vercel.app/atom.xml"/>
     <subtitle>念念不忘，必有回响</subtitle>
-    <logo>https://767116397.github.io/whynone/images/avatar.png</logo>
-    <icon>https://767116397.github.io/whynone/favicon.ico</icon>
+    <logo>https://whynone.vercel.app/images/avatar.png</logo>
+    <icon>https://whynone.vercel.app/favicon.ico</icon>
     <rights>All rights reserved 2021, whyNone</rights>
     <entry>
         <title type="html"><![CDATA[SSH 无密配置]]></title>
-        <id>https://767116397.github.io/whynone/ssh-wu-mi-pei-zhi/</id>
-        <link href="https://767116397.github.io/whynone/ssh-wu-mi-pei-zhi/">
+        <id>https://whynone.vercel.app/ssh-wu-mi-pei-zhi/</id>
+        <link href="https://whynone.vercel.app/ssh-wu-mi-pei-zhi/">
         </link>
         <updated>2021-03-15T04:40:12.000Z</updated>
     </entry>
